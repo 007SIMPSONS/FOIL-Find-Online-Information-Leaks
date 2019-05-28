@@ -9,6 +9,10 @@
 ## The Goal
 This is a mobile application developed for online information security. FOIL - Find Online Information Leaks will help users identify if their online accounts have been leaked in any data breaches and found in any online public sources. It fetches the data from using HIBP API. 
 
+## App Screenshots
+
+![App screenshots](/docs/merged%20screenshots.png "App screenshots")
+
 ## Deliverables
 
 This application will allow its users:
